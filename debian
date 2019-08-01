@@ -1,0 +1,15 @@
+### Commented entries have reasonable defaults.
+### Uncomment to edit them.
+Source: hello-world
+Section: misc
+Priority: optional
+Homepage: https://example.com
+Standards-Version: 1.0.0
+
+Package: hello-world
+Version: 0.1
+Maintainer: test user <test@example.com>
+Architecture: all
+Files: hello-world /bin/
+
+Description: The classic hello world program.
