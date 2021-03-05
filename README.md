@@ -1,6 +1,13 @@
 # Debian-Packaging-Example
 Example to build Debian (.deb) files from a C binary.
 
+Dependencies
+```
+equivs-build - to build deb file
+make - to run script
+gcc - to compile C code
+```
+
 Run the following commands to compile the example program and generate a debian installer file.
 ```
 make
